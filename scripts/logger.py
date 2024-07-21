@@ -97,7 +97,7 @@ class CustomLogger:
         developer : str
             Nombre del desarrollador que utiliza los logs.
         """
-        self.logs_dir = os.path.join(os.getcwd(), 'logs')
+        self.logs_dir = os.path.join(os.path.dirname(__file__), '..', 'logs')
         os.makedirs(self.logs_dir, exist_ok=True)
         self.developer = developer
         
