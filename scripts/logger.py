@@ -16,23 +16,34 @@ class CustomLogger:
     
     Métodos:
     --------
+    ```python	
     __init__(developer):
-        Inicializa el objeto CustomLogger y configura los loggers según el desarrollador.
+    ```
+    Inicializa el objeto CustomLogger y configura los loggers según el desarrollador.
     
+    ```python	
     get_logger(name):
+    ```
         Devuelve el logger solicitado por nombre.
-    
-    log_results(estudio, version, modelo, rmse, mse, mae, r2, hiperparams):
+
+    ```python	
+    log_results(estudio, version, modelo, rmse, mse, mae, r2, hiperparams, tiempo_ejecucion):
+    ```
         Registra los resultados de una prueba de modelo.
     
+    ```python	
     log_visualization(name, path):
+    ```
         Registra una visualización generada.
     
-    log_optimization(estudio, version, modelo_final, hiperparams):
+    ```python	
+    log_optimization(estudio, version, modelo_final, hiperparams, tiempo_ejecucion, resultados):
+    ```
         Registra detalles de la optimización del modelo.
 
     Ejemplo de uso:
     ---------------
+    ```python	
     logger = CustomLogger(developer='David')
     app_logger = logger.get_logger('app')
     results_logger = logger.get_logger('results')
@@ -40,8 +51,9 @@ class CustomLogger:
     optimization_logger = logger.get_logger('optimization')
 
     app_logger.info('Iniciando la aplicación.')
-
-    # Ejemplo de log de resultados
+    ```	
+    ## Ejemplo de log de resultados
+    ```python
     logger.log_results(
         estudio='House Pricing',
         version='1.0',
@@ -50,22 +62,30 @@ class CustomLogger:
         mse=0.015,
         mae=0.010,
         r2=0.85,
-        hiperparams='Optuna v2.0'
+        hiperparams='Optuna v2.0',
+        tiempo_ejecucion=123.45
     )
+    ```
 
-    # Ejemplo de log de visualización
+    ## Ejemplo de log de visualización
+    ```python
     logger.log_visualization(
         name='Precio vs Área',
         path='/plots/price_vs_area.png'
     )
+    ```
 
-    # Ejemplo de log de optimización
+    ## Ejemplo de log de optimización
+    ```python
     logger.log_optimization(
         estudio='House Pricing Optimization',
         version='1.0',
         modelo_final='RandomForest',
-        hiperparams={'n_estimators': 100, 'max_depth': 10}
+        hiperparams={'n_estimators': 100, 'max_depth': 10},
+        tiempo_ejecucion=123.45,
+        resultados={'value_0': 1, 'value_1': 2}
     )
+    ```
     """
     
     def __init__(self, developer):
