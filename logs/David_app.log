@@ -1,1 +1,364 @@
 [2024-07-21 14:26:23,447] 249 - app_logger - INFO - Iniciando la aplicación.
+[2024-07-21 17:07:21,003] 249 - app_logger - INFO - Iniciando la aplicación.
+[2024-07-21 17:07:21,038] 40 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:07:21,038] 40 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:13:56,400] 249 - app_logger - INFO - Iniciando la aplicación.
+[2024-07-21 17:13:56,410] 21 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:13:56,410] 21 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:15:21,975] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:15:21,975] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:15:21,975] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:21:22,240] 14 - app_logger - INFO - Se encontraron 7829 valores faltantes en total.
+[2024-07-21 17:21:22,240] 14 - app_logger - INFO - Se encontraron 7829 valores faltantes en total.
+[2024-07-21 17:21:22,240] 14 - app_logger - INFO - Se encontraron 7829 valores faltantes en total.
+[2024-07-21 17:21:22,241] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 17:21:22,241] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 17:21:22,241] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 17:28:16,756] 13 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:28:16,756] 13 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:28:16,756] 13 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:28:16,764] 21 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:28:16,764] 21 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:28:16,764] 21 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:29:16,910] 17 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:29:16,910] 17 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:29:16,910] 17 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:29:16,910] 25 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:29:16,910] 25 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:29:16,910] 25 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:30:11,343] 22 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:30:11,343] 22 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:30:11,343] 22 - app_logger - INFO - Algunos MiscFeature tienen múltiples valores de MiscVal. Se recomienda mantener ambas columnas.
+[2024-07-21 17:30:11,344] 30 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:30:11,344] 30 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:30:11,344] 30 - app_logger - INFO - Fuerte correlación (0.8854) entre MiscFeature y MiscVal.
+[2024-07-21 17:31:28,527] 21 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda mantener ambas columnas.
+[2024-07-21 17:31:28,527] 21 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda mantener ambas columnas.
+[2024-07-21 17:31:28,527] 21 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda mantener ambas columnas.
+[2024-07-21 17:32:56,508] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 17:32:56,508] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 17:32:56,508] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 17:38:30,991] 249 - app_logger - INFO - Iniciando la aplicación.
+[2024-07-21 17:38:31,006] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:38:31,006] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:38:33,141] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 17:38:33,141] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 17:38:33,141] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 17:38:33,141] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 17:38:36,099] 21 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 17:38:36,099] 21 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 17:38:40,116] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 17:38:40,116] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 17:39:34,082] 249 - app_logger - INFO - Iniciando la aplicación.
+[2024-07-21 17:39:34,093] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:39:34,093] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:39:34,129] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 17:39:34,129] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 17:39:34,129] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 17:39:34,129] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 17:39:34,144] 21 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 17:39:34,144] 21 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 17:39:34,158] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 17:39:34,158] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 17:43:06,947] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:43:06,947] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:43:06,947] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 17:43:06,955] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 17:43:06,955] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 17:43:06,955] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 17:44:45,447] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 17:44:45,447] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 17:44:45,447] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 17:44:45,447] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 17:44:45,447] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 17:44:45,447] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 17:46:23,634] 14 - app_logger - INFO - Se ha generado un informe de análisis exploratorio de datos utilizando sweetviz.
+[2024-07-21 17:46:23,634] 14 - app_logger - INFO - Se ha generado un informe de análisis exploratorio de datos utilizando sweetviz.
+[2024-07-21 17:46:23,634] 14 - app_logger - INFO - Se ha generado un informe de análisis exploratorio de datos utilizando sweetviz.
+[2024-07-21 17:55:33,519] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-21 17:55:33,519] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-21 17:55:33,519] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-21 19:01:51,278] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:01:51,278] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:01:51,278] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:01:51,278] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:01:51,293] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:01:51,293] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:01:51,293] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:01:51,293] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:01:51,342] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:01:51,342] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:01:51,342] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:01:51,342] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:01:51,342] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:01:51,342] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:01:51,342] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:01:51,342] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:01:51,379] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:01:51,379] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:01:51,379] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:01:51,379] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:01:51,380] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:01:51,380] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:01:51,380] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:01:51,380] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:01:51,407] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:01:51,407] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:01:51,407] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:01:51,407] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:02:42,718] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:02:42,718] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:02:42,718] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:02:42,718] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:02:58,048] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:02:58,048] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:02:58,048] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:02:58,048] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:00,027] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:03:00,027] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:03:00,027] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:03:00,027] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:03:00,027] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 19:03:00,039] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:03:00,039] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:03:00,039] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:03:00,039] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:03:00,039] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 19:03:00,087] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:03:00,087] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:03:00,087] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:03:00,087] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:03:00,087] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-21 19:03:00,088] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:03:00,088] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:03:00,088] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:03:00,088] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:03:00,088] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 19:03:00,122] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:03:00,122] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:03:00,122] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:03:00,122] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:03:00,122] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-21 19:03:00,123] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:03:00,123] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:03:00,123] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:03:00,123] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:03:00,123] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 19:03:00,137] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:03:00,137] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:03:00,137] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:03:00,137] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:03:00,137] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 19:03:01,252] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:01,252] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:01,252] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:01,252] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:01,252] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:05,508] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:05,508] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:05,508] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:05,508] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 19:03:05,508] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 01:33:57,222] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:33:57,222] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:33:57,222] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:33:57,222] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:33:57,222] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:33:57,222] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:33:57,232] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:33:57,232] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:33:57,232] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:33:57,232] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:33:57,232] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:33:57,232] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:40:28,973] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:40:28,973] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:40:28,973] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:40:28,973] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:40:28,973] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:40:28,973] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:40:28,973] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 01:40:28,988] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:40:28,988] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:40:28,988] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:40:28,988] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:40:28,988] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:40:28,988] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:40:28,988] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 01:40:29,052] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 01:40:29,052] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 01:40:29,052] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 01:40:29,052] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 01:40:29,052] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 01:40:29,052] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 01:40:29,052] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 01:40:29,053] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 01:40:29,053] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 01:40:29,053] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 01:40:29,053] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 01:40:29,053] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 01:40:29,053] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 01:40:29,053] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 01:40:29,093] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 01:40:29,093] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 01:40:29,093] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 01:40:29,093] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 01:40:29,093] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 01:40:29,093] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 01:40:29,093] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 01:40:29,093] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 01:40:29,093] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 01:40:29,093] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 01:40:29,093] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 01:40:29,093] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 01:40:29,093] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 01:40:29,093] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 01:40:29,113] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 01:40:29,113] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 01:40:29,113] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 01:40:29,113] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 01:40:29,113] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 01:40:29,113] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 01:40:29,113] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 01:40:29,155] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 01:40:29,155] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 01:40:29,155] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 01:40:29,155] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 01:40:29,155] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 01:40:29,155] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 01:40:29,155] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 01:40:31,308] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 01:40:31,308] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 01:40:31,308] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 01:40:31,308] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 01:40:31,308] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 01:40:31,308] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 01:40:31,308] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 01:40:35,895] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 01:40:35,895] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 01:40:35,895] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 01:40:35,895] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 01:40:35,895] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 01:40:35,895] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 01:40:35,895] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 02:21:44,953] 26 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:21:44,953] 26 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:21:44,953] 26 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:21:44,953] 26 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:21:44,953] 26 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:21:44,953] 26 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:21:44,953] 26 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:21:44,953] 28 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:21:44,953] 28 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:21:44,953] 28 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:21:44,953] 28 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:21:44,953] 28 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:21:44,953] 28 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:21:44,953] 28 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:22:51,011] 34 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:22:51,011] 34 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:22:51,011] 34 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:22:51,011] 34 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:22:51,011] 34 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:22:51,011] 34 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:22:51,011] 34 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:22:51,012] 36 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:22:51,012] 36 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:22:51,012] 36 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:22:51,012] 36 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:22:51,012] 36 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:22:51,012] 36 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:22:51,012] 36 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:25:02,936] 41 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:25:02,936] 41 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:25:02,936] 41 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:25:02,936] 41 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:25:02,936] 41 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:25:02,936] 41 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:25:02,936] 41 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:25:02,937] 43 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:25:02,937] 43 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:25:02,937] 43 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:25:02,937] 43 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:25:02,937] 43 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:25:02,937] 43 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:25:02,937] 43 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:01,670] 47 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:01,670] 47 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:01,670] 47 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:01,670] 47 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:01,670] 47 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:01,670] 47 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:01,670] 47 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:01,670] 49 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:01,670] 49 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:01,670] 49 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:01,670] 49 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:01,670] 49 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:01,670] 49 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:01,670] 49 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:44,530] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:29:44,530] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:29:44,530] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:29:44,530] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:29:44,530] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:29:44,530] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:29:44,530] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:29:44,533] 57 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:44,533] 57 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:44,533] 57 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:44,533] 57 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:44,533] 57 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:44,533] 57 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:44,533] 57 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:29:44,534] 59 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:44,534] 59 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:44,534] 59 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:44,534] 59 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:44,534] 59 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:44,534] 59 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:29:44,534] 59 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 10.88 años, tiempo medio hasta remodelación: 11.33 años
+[2024-07-22 02:31:53,902] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:31:53,902] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:31:53,902] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:31:53,902] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:31:53,902] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:31:53,902] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:31:53,902] 25 - app_logger - INFO - El 21.71% de las casas tienen GarageYrBlt que no coincide ni con YearBuilt ni con YearRemodAdd.
+[2024-07-22 02:31:53,904] 51 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:31:53,904] 51 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:31:53,904] 51 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:31:53,904] 51 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:31:53,904] 51 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:31:53,904] 51 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:31:53,904] 51 - app_logger - INFO - Análisis de YearBuilt vs GarageYrBlt completado. Coinciden: 74.59%, Diferentes: 25.41%
+[2024-07-22 02:31:53,906] 53 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 5.55 años, tiempo medio hasta remodelación: 6.93 años
+[2024-07-22 02:31:53,906] 53 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 5.55 años, tiempo medio hasta remodelación: 6.93 años
+[2024-07-22 02:31:53,906] 53 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 5.55 años, tiempo medio hasta remodelación: 6.93 años
+[2024-07-22 02:31:53,906] 53 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 5.55 años, tiempo medio hasta remodelación: 6.93 años
+[2024-07-22 02:31:53,906] 53 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 5.55 años, tiempo medio hasta remodelación: 6.93 años
+[2024-07-22 02:31:53,906] 53 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 5.55 años, tiempo medio hasta remodelación: 6.93 años
+[2024-07-22 02:31:53,906] 53 - app_logger - INFO - Para casas con garage sin terminar, tiempo medio entre construcción: 5.55 años, tiempo medio hasta remodelación: 6.93 años
+[2024-07-22 03:26:16,877] 249 - app_logger - INFO - Iniciando la aplicación.
+[2024-07-22 03:26:16,889] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 03:26:16,889] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-22 03:26:16,897] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 03:26:16,897] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-22 03:26:16,945] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 03:26:16,945] 14 - app_logger - INFO - Se encontraron 6965 valores faltantes en total.
+[2024-07-22 03:26:16,945] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 03:26:16,945] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-22 03:26:16,993] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 03:26:16,993] 14 - app_logger - INFO - Se encontraron 7000 valores faltantes en total en el conjunto de test.
+[2024-07-22 03:26:16,993] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 03:26:16,993] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-22 03:26:17,031] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 03:26:17,031] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-22 03:26:17,081] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 03:26:17,081] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-22 03:26:26,627] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 03:26:26,627] 12 - app_logger - INFO - Se ha generado un análisis interactivo utilizando dtale.
+[2024-07-22 03:26:26,689] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 03:26:26,689] 15 - app_logger - INFO - Se identificaron 696 casas remodeladas y 764 casas no remodeladas.
+[2024-07-22 03:26:26,721] 44 - app_logger - INFO - El 9.45% del total de casas tienen GarageYrBlt a más de 10 años de YearBuilt y YearRemodAdd.
+[2024-07-22 03:26:26,721] 44 - app_logger - INFO - El 9.45% del total de casas tienen GarageYrBlt a más de 10 años de YearBuilt y YearRemodAdd.
