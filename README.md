@@ -4,6 +4,10 @@
 
 Este proyecto está diseñado para aquellos con experiencia en R o Python y conceptos básicos de machine learning. Es perfecto para estudiantes de ciencia de datos que han completado un curso en línea de machine learning y buscan expandir su conjunto de habilidades antes de intentar una competencia destacada.
 
+url del proyecto en kaggle 
+
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
 ### Introducción
 
 Cuando un comprador de vivienda describe su casa soñada, probablemente no mencione la altura del sótano o la proximidad a una vía férrea. Sin embargo, este dataset de competencia demuestra que mucho más influye en las negociaciones de precios que solo el número de dormitorios o una cerca blanca.
