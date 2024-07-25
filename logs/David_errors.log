@@ -4339,3 +4339,30 @@ GradientBoostingRegressor does not accept missing values encoded as NaN natively
 [2024-07-24 16:21:10,337] 153 - errors_logger - ERROR - Error al evaluar el modelo LinearRegression - smote: Input contains NaN.
 [2024-07-24 16:21:10,892] 153 - errors_logger - ERROR - Error al evaluar el modelo Ridge - smote: Input contains NaN.
 [2024-07-24 16:21:11,576] 153 - errors_logger - ERROR - Error al evaluar el modelo Lasso - smote: Input contains NaN.
+[2024-07-25 13:18:30,485] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:18:32,125] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:18:33,470] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:24:19,444] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:24:21,034] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:24:22,363] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:25:42,490] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:25:44,376] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:25:45,729] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:28:21,576] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:28:23,227] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:28:24,596] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:29:19,349] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:29:20,984] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:29:22,328] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:35:33,620] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:35:35,248] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:35:36,594] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:35:47,718] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:35:49,419] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:35:50,785] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:36:14,016] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:36:15,631] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:36:16,969] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:36:24,464] 7 - errors_logger - WARNING - No se pudo ajustar el modelo logarithmic_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:36:26,109] 7 - errors_logger - WARNING - No se pudo ajustar el modelo sqrt_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
+[2024-07-25 13:36:27,482] 7 - errors_logger - WARNING - No se pudo ajustar el modelo power_model: Optimal parameters not found: Number of calls to function has reached maxfev = 10000.
