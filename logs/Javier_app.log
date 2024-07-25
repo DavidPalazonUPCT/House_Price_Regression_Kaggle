@@ -1,0 +1,34 @@
+[2024-07-21 21:01:25,257] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 21:01:25,273] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 21:02:53,288] 14 - app_logger - INFO - Se encontraron 7829 valores faltantes en total.
+[2024-07-21 21:02:53,288] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 21:06:18,908] 14 - app_logger - INFO - Se encontraron 7878 valores faltantes en total en el conjunto de test.
+[2024-07-21 21:06:18,909] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 21:20:45,575] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 21:25:05,192] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 21:30:32,791] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 21:30:32,810] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 21:30:32,969] 14 - app_logger - INFO - Se encontraron 7829 valores faltantes en total.
+[2024-07-21 21:30:32,969] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 21:30:33,075] 14 - app_logger - INFO - Se encontraron 7878 valores faltantes en total en el conjunto de test.
+[2024-07-21 21:30:33,076] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 21:30:34,039] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 21:30:34,772] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 21:32:37,165] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-21 21:32:37,188] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-21 21:32:37,317] 14 - app_logger - INFO - Se encontraron 7829 valores faltantes en total.
+[2024-07-21 21:32:37,318] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-21 21:32:37,412] 14 - app_logger - INFO - Se encontraron 7878 valores faltantes en total en el conjunto de test.
+[2024-07-21 21:32:37,412] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-21 21:32:37,947] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-21 21:32:38,686] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-21 21:33:31,737] 17 - app_logger - INFO - Se ha generado un informe de análisis exploratorio de datos utilizando sweetviz.
+[2024-07-25 13:47:54,158] 27 - app_logger - INFO - Conjunto de datos de entrenamiento cargado exitosamente.
+[2024-07-25 13:47:54,185] 38 - app_logger - INFO - Conjunto de datos de test cargado exitosamente.
+[2024-07-25 13:47:54,366] 14 - app_logger - INFO - Se encontraron 7829 valores faltantes en total.
+[2024-07-25 13:47:54,366] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de datos.
+[2024-07-25 13:47:54,514] 14 - app_logger - INFO - Se encontraron 7878 valores faltantes en total en el conjunto de test.
+[2024-07-25 13:47:54,514] 21 - app_logger - INFO - No se encontraron filas duplicadas en el conjunto de test.
+[2024-07-25 13:47:54,580] 19 - app_logger - INFO - La relación entre MiscFeature y MiscVal no es unívoca. Se recomienda eliminar ambas columnas.
+[2024-07-25 13:47:54,658] 8 - app_logger - INFO - Se eliminaron 3 columnas con más del 90% de valores faltantes: Alley, PoolQC, MiscFeature
+[2024-07-25 13:48:40,042] 17 - app_logger - INFO - Se ha generado un informe de análisis exploratorio de datos utilizando sweetviz.
